@@ -1,3 +1,7 @@
-Remember to modify the values of physical parameters in your design.
+Remember to modify the values of technology physical parameters in your design.
 
-All these parameters are defined in the temperature.cpp file.
+e.g. *chip thickness in meters*
+     *chip thermal conductivity in W/(m-K)* 
+     *chip specific heat in J/(m^3-K)*
+
+All these parameters are defined in the **temperature.cpp** file.
