@@ -1,11 +1,11 @@
 //########################################################################
-//##			              EDA Group                               ####
+//##			       EDA Group                              ####
 //##                    Politecnico di Torino                         ####
-//##		     Yukai Chen : yukai.chen@polito.it                    ####     
+//##		     Yukai Chen : yukai.chen@polito.it                ####     
 //## Description: Generate thermal resistor and capacitor network     #### 
 //##              in block model.                                     ####
 //## Input files: Floorplan fie (.flp)                                ####
-//## Output files: Thermal RC networks.								  ####
+//## Output files: Thermal RC networks.	                              ####
 //########################################################################
 
 
