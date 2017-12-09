@@ -14,8 +14,8 @@ a high degree of accuracy with respect to the reference thermal simulator HotSpo
 
 The codes in this poject consist of the following phases:
 
-<center>
-![1.png](https://steemitimages.com/DQmRSHNr3yikNfUUNo5LKptdMTYdYXP49w5Cit5arseT7gh/1.png) </center>
+
+![1.png](https://steemitimages.com/DQmRSHNr3yikNfUUNo5LKptdMTYdYXP49w5Cit5arseT7gh/1.png)
 
 1.**Construction of the RC network**, by reproducing the method used by HotSpot using chip floorplan and technology data;
 
