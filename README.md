@@ -20,3 +20,14 @@ a high degree of accuracy with respect to the reference thermal simulator HotSpo
 1.**Construction of the RC network**, by reproducing the method used by HotSpot using chip floorplan and technology data;
 
 2.Coming soon...
+
+
+
+
+
+##### Please reference our paper if you use this tool to run your thermal simualtion:
+
+>Chen, Y., Vinco, S., Macii, E. and Poncino, M., 2016, May. Fast thermal simulation using SystemC-AMS. In Great Lakes Symposium on VLSI, 2016 International (pp. 427-432). IEEE.
+
+>Vinco, S., Chen, Y., Fummi, F., Macii, E. and Poncino, M., 2017. A Layered Methodology for the Simulation of Extra-Functional Properties in Smart Systems. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
+
