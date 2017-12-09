@@ -25,7 +25,7 @@ a high degree of accuracy with respect to the reference thermal simulator HotSpo
 
 
 
-##### Please reference our paper if you use this tool to run your thermal simualtion:
+##### Please reference any paper we list here if you use this tool to run your thermal simualtion or build thermal model:
 
 >Chen, Y., Vinco, S., Macii, E. and Poncino, M., 2016, May. Fast thermal simulation using SystemC-AMS. In Great Lakes Symposium on VLSI, 2016 International (pp. 427-432). IEEE.
 
