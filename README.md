@@ -12,7 +12,7 @@ of SystemC-AMS. Our using experience shows that the choice of SystemC-AMS is a w
 for building a simultaneous simulation of multiple aspects of a smart system. The generated code exposes
 a high degree of accuracy with respect to the reference thermal simulator HotSpot. 
 
-The codes in this poject consist of the following phases:
+#### The codes in this poject consist of the following phases:
 
 
 ![1.png](https://steemitimages.com/DQmRSHNr3yikNfUUNo5LKptdMTYdYXP49w5Cit5arseT7gh/1.png)
