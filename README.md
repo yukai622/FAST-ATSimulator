@@ -31,3 +31,5 @@ a high degree of accuracy with respect to the reference thermal simulator HotSpo
 
 >Vinco, S., Chen, Y., Fummi, F., Macii, E. and Poncino, M., 2017. A Layered Methodology for the Simulation of Extra-Functional Properties in Smart Systems. IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems.
 
+>Chen, Y., Vinco, S., Macii, E. and Poncino, M., 2018. SystemC-AMS Thermal Modeling for the Co-simulation of Functional and Extra-Functional Properties. ACM Transactions on Design Automation of Electronic Systems (TODAES), 24(1), p.4.
+
