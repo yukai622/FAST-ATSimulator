@@ -19,8 +19,10 @@ a high degree of accuracy with respect to the reference thermal simulator HotSpo
 
 1.**Construction of the RC network**, by reproducing the method used by HotSpot using chip floorplan and technology data;
 
-2. **Please check the detailed implementation in our paper published in ACM Transactions on Design Automation of Electronic Systems (TODAES).** 
+2.**Please check the detailed implementation in our paper published in ACM Transactions on Design Automation of Electronic Systems (TODAES).** 
+
    -Click here go to ACM digital library: [SystemC-AMS Thermal Modeling for the Co-simulation of Functional and Extra-Functional Properties](https://dl.acm.org/citation.cfm?id=3267125)
+   
    -If you don't have permission enter ACM digital library, click [here](https://www.researchgate.net/publication/329851294_SystemC-AMS_Thermal_Modeling_for_the_Co-simulation_of_Functional_and_Extra-Functional_Properties) 
 
 
